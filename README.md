@@ -5,6 +5,5 @@ https://shikhasharma06.github.io/Dom-project/index.html
 
 
 
-This project contains a container which have been styled using js by calling as "document.getElementById()".
+Its a container  which have beenusing js by calling as "document.getElementById()".
 The other method of manipulating the DOM by selecting the setAttribute() method.
-The selector has stored in a variable and then particular style have been applied.
